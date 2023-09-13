@@ -5,6 +5,6 @@
 
 **Fall**
 
-|#|SEssions|Keyward|
+|# |SEssions |Keyward |
 |:--:||:--:||:--:|
 |1|code cells|[variable,assign]()|
