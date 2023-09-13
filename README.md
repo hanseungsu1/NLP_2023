@@ -1,3 +1,3 @@
-#3 NLP_2023
+# NLP_2023
 
-#😊:feelsgood:❔Python Language
+# 😊:feelsgood:❔Python Language
